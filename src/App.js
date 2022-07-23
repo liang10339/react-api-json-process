@@ -14,7 +14,7 @@ function App() {
 
         <div className="container mt-3">
           <Routes>
-            <Route path="/" element={<Statics/>} />
+            <Route path="/statsinsight-code" element={<Statics/>} />
           </Routes>
         </div>
     </div>
