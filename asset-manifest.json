@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "react-api-json-process/static/css/main.0e170fb8.css",
-    "main.js": "react-api-json-process/static/js/main.fcf97cab.js",
-    "static/js/787.6eba84d4.chunk.js": "react-api-json-process/static/js/787.6eba84d4.chunk.js",
-    "index.html": "react-api-json-process/index.html",
-    "main.0e170fb8.css.map": "react-api-json-process/static/css/main.0e170fb8.css.map",
-    "main.fcf97cab.js.map": "react-api-json-process/static/js/main.fcf97cab.js.map",
-    "787.6eba84d4.chunk.js.map": "react-api-json-process/static/js/787.6eba84d4.chunk.js.map"
+    "main.css": "/react-api-json-process/static/css/main.0e170fb8.css",
+    "main.js": "/react-api-json-process/static/js/main.aab876b4.js",
+    "static/js/787.6eba84d4.chunk.js": "/react-api-json-process/static/js/787.6eba84d4.chunk.js",
+    "index.html": "/react-api-json-process/index.html",
+    "main.0e170fb8.css.map": "/react-api-json-process/static/css/main.0e170fb8.css.map",
+    "main.aab876b4.js.map": "/react-api-json-process/static/js/main.aab876b4.js.map",
+    "787.6eba84d4.chunk.js.map": "/react-api-json-process/static/js/787.6eba84d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e170fb8.css",
-    "static/js/main.fcf97cab.js"
+    "static/js/main.aab876b4.js"
   ]
 }
