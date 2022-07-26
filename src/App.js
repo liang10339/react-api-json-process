@@ -2,6 +2,7 @@ import React from "react";
 import {Routes, Route, Link} from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Statics from "./components/statics";
+import "./App.css";
 
 function App() {
   return (
